@@ -34,6 +34,8 @@
     "critical": 0.3,
     "attackSpeed": 3,
     "healAmount": 50,
+    "healColdown": 3,
+    "switchColdown": 5,
     "img": "./img/player.png"
   },
   {
@@ -45,6 +47,8 @@
     "critical": 0.3,
     "attackSpeed": 3,
     "healAmount": 50,
+    "healColdown": 3,
+    "switchColdown": 5,
     "img": "./img/player.png"
   },
   {
@@ -56,6 +60,8 @@
     "critical": 0.3,
     "attackSpeed": 3,
     "healAmount": 50,
+    "healColdown": 3,
+    "switchColdown": 5,
     "img": "./img/player.png"
   }
 ]
