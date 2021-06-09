@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "name": "Character 1",
+    "hp": 500,
+    "attackDamage": 150,
+    "defense": 50,
+    "critical": 0.5,
+    "attackSpeed": 2,
+    "healAmount": 100,
+    "healColdown": 3,
+    "switchColdown": 5,
+    "img": "./img/player.png"
+  },
+  {
+    "id": "2",
+    "name": "Character 2",
+    "hp": 1000,
+    "attackDamage": 25,
+    "defense": 100,
+    "critical": 0.2,
+    "attackSpeed": 3,
+    "healAmount": 150,
+    "healColdown": 3,
+    "switchColdown": 5,
+    "img": "./img/player.png"
+  },
+  {
+    "id": "3",
+    "name": "Character 3",
+    "hp": 500,
+    "attackDamage": 25,
+    "defense": 50,
+    "critical": 0.3,
+    "attackSpeed": 3,
+    "healAmount": 50,
+    "img": "./img/player.png"
+  },
+  {
+    "id": "4",
+    "name": "Character 4",
+    "hp": 500,
+    "attackDamage": 25,
+    "defense": 50,
+    "critical": 0.3,
+    "attackSpeed": 3,
+    "healAmount": 50,
+    "img": "./img/player.png"
+  },
+  {
+    "id": "5",
+    "name": "Character 5",
+    "hp": 500,
+    "attackDamage": 25,
+    "defense": 50,
+    "critical": 0.3,
+    "attackSpeed": 3,
+    "healAmount": 50,
+    "img": "./img/player.png"
+  }
+]
